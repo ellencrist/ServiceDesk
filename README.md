@@ -6,7 +6,7 @@ O Objetivo era criar um service desk para o aplicativo de uma empresa de transpo
  Funcionamento: "https://clipchamp.com/watch/Fz0i9Oxl0lh/embed"
  </div>
  <br>
-  ![ServiceDesk]((https://github.com/ellencrist/ServiceDesk/blob/main/img/service%20desk.png?raw=true)
+  ![ServiceDesk](https://user-img.githubusercontent.com/ellencrist/ServiceDesk/blob/main/img/service%20desk.png?raw=true)
  
  Ferramenta usada:
 <br>

@@ -1,12 +1,20 @@
 # ServiceDesk
 Projeto de final de semestre da matéria de programação de soluções computacionais.
-O Objetivo era criar um service desk para o aplicativo de uma empresa de transporte visando melhorar o suporte ao usuário no aplicativo.
+<p>O desafio era criar uma interface em Java que representasse a melhoria de um aplicativo qualquer já existente, e minha solução foi desenvolver um service desk para o aplicativo de uma empresa de transporte visando melhorar o suporte ao usuário no aplicativo.</p>
 
 <div>
  Funcionamento: "https://clipchamp.com/watch/Fz0i9Oxl0lh/embed"
  </div>
  <br>
-  ![ServiceDesk](https://user-img.githubusercontent.com/ellencrist/ServiceDesk/blob/main/img/service%20desk.png?raw=true)
+  <p>O programa mostra a visão do app para o usuário(tela do celular) onde ele irá realizar o chamado, e a segunda tela(do notebook) simula o sistema do lado da empresa, onde o gerente da área irá cadastrar os funcionários que irão monitorar e ser resolver o chamado, também sendo possível gerar relatórios para acompanhar o status da atividade</p>
+  ![ServiceDesk](https://raw.githubusercontent.com/ellencrist/ServiceDesk/main/img/service%20desk.png)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  Ferramenta usada:
 <br>

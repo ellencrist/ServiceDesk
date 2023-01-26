@@ -6,7 +6,7 @@ Projeto de final de semestre da matéria de programação de soluções computac
  Funcionamento: "https://clipchamp.com/watch/Fz0i9Oxl0lh/embed"
  </div>
  <br>
-  <p>O programa mostra a visão do app para o usuário(tela do celular) onde ele irá realizar o chamado, e a segunda tela(do notebook) simula o sistema do lado da empresa, onde o gerente da área irá cadastrar os funcionários que irão monitorar e ser resolver o chamado, também sendo possível gerar relatórios para acompanhar o status da atividade</p>
+  <p>O programa mostra a visão do app para o usuário(tela do celular) onde ele irá realizar o chamado, e a segunda tela(otebook) simula o sistema do lado da empresa, onde o gerente da área irá cadastrar os funcionários que irão monitorar e resolver o chamado, também sendo possível gerar relatórios para acompanhar o status da atividade</p>
   
 <a href="https://uploaddeimagens.com.br/images/004/314/512/full/service_desk.png?1674757380"><img src="https://uploaddeimagens.com.br/images/004/314/512/full/service_desk.png?1674757380" alt="service desk interface java" border="0"></a>
  

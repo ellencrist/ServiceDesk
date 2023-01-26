@@ -1,6 +1,6 @@
 # ServiceDesk
 Projeto de final de semestre da matéria de programação de soluções computacionais.
-<p>O desafio era criar uma interface em Java que representando uma melhoria ou inovação de um aplicativo qualquer já existente, e minha solução foi desenvolver um service desk para o aplicativo de uma empresa de transporte visando melhorar o suporte ao usuário no aplicativo.</p>
+<p>O desafio era criar uma interface em Java com CRUD, representando uma melhoria ou inovação de um aplicativo qualquer já existente, e minha solução foi desenvolver um service desk para o aplicativo de uma empresa de transporte visando melhorar o suporte ao usuário no aplicativo.</p>
 
 <div>
  Funcionamento: "https://clipchamp.com/watch/Fz0i9Oxl0lh/embed"

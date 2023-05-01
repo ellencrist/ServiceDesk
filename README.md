@@ -11,7 +11,7 @@ Projeto de final de semestre da matéria de programação de soluções computac
 <a href="https://uploaddeimagens.com.br/images/004/314/512/full/service_desk.png?1674757380"><img src="https://uploaddeimagens.com.br/images/004/314/512/full/service_desk.png?1674757380" alt="service desk interface java" border="0"></a>
  
 
- Ferramenta usada:
+ IDE usada:
  <br>
   ![Netbeans](https://img.shields.io/badge/-netbeans-0D1117?style=for-the-badge&logo=netbeans&logoColor=007ACC&labelColor=0D1117)&nbsp;
   <img src="https://th.bing.com/th/id/R.f348d40c8d60d9dd1c8ef9c654b02705?rik=vWlWz0rp8H2Meg&pid=ImgRaw&r=0g" width="28"/>

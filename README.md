@@ -1,6 +1,5 @@
 # ServiceDesk
 <div>
-End-of-semester project on programming computational solutions.
 End-of-semester project for the computational solutions subject at the university.
 <p>The challenge was to create a Java interface with CRUD, representing an improvement or innovation of any existing application, and my solution was to develop a service desk for a transport company application in order to improve user support in the application .</p>
 

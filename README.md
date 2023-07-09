@@ -18,6 +18,8 @@ End-of-semester project on programming computational solutions.
 <ul>
 <li>Java Development Kit (JDK) 8 or higher</li>
 <li>Apache Maven</li>
+<li>Clone this repository to your local machine or download the source code</li>
+<li>Open the project in your preferred IDE (I recommend using IntelliJ IDEA, Eclipse or NetBeans)</li>
 </ul>
 
 <div>

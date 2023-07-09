@@ -30,7 +30,7 @@ End-of-semester project on programming computational solutions.
 
 <div>
   <h2>Use</h2>
-  <p>Run interface.java</p>
+  <p>Run the Tela.java file located in the interface package</p>
   <br>
   <p><strong>Bug submission:</strong></p>
   <p>1. Enter your name in the "Username" field.</p>
